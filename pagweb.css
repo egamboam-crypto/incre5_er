@@ -1,5 +1,5 @@
 .hero{
-    background-image: url("img/info.jpg");
+    background-image: url("info.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
 }
 
 .hero-inf{
-    background-image: url("img/prografon.jpg");
+    background-image: url("prografon.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@
 }
 
 .hero-des{
-    background-image: url("img/Desafon.jpg");
+    background-image: url("Desafon.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@
 }
 
 .hero-met{
-    background-image: url("img/metofon.jpeg");
+    background-image: url("metofon.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@
 }
 
 .hero-log{
-    background-image: url("img/logfon.jpg");
+    background-image: url("logfon.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@
 }
 
 .hero-con{
-    background-image: url("img/confon.jpeg");
+    background-image: url("confon.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
